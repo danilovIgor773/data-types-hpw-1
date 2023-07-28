@@ -1,0 +1,16 @@
+{
+  "name": "data-types-hpw-1",
+  "version": "1.0.0",
+  "description": "1. Напишите функцию, содержащую внутри себя переменную с поднятием.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
